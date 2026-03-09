@@ -13,6 +13,6 @@ Por último, tenho um nível intermédiario de inglês, faço curso na KNN idiom
 
 
 
-     ![17104340644112](https://github.com/user-attachments/assets/8d0dd512-fa3a-4241-b149-a222450219d1)
+![17104340644112](https://github.com/user-attachments/assets/8d0dd512-fa3a-4241-b149-a222450219d1)
      
 https://www.linkedin.com/in/davi-nathan-hames-339a393b4 
