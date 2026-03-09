@@ -11,3 +11,4 @@ Por último, tenho um nível intermédiario de inglês, faço curso na KNN idiom
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  width= "40" height= "40"/>
           
+https://www.linkedin.com/in/davi-nathan-hames-339a393b4 
