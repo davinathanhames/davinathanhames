@@ -14,4 +14,8 @@ Por último, tenho um nível intermédiario de inglês, faço curso na KNN idiom
 
 
 
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+
+
   
