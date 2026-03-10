@@ -11,5 +11,8 @@ Por último, tenho um nível intermédiario de inglês, faço curso na KNN idiom
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  width= "40" height= "40"/>
 
+
+
+# Contato: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" />
           
