@@ -6,7 +6,7 @@ Além disso, trabalho como menor aprendiz na Tijucon materiais de construção, 
 
 Por último, tenho um nível intermédiario de inglês, faço curso na KNN idiomas para manter meus estudos e aprimorar minha comunicação a respeito da língua.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+
 
 # Estou estudando: 
 
