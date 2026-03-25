@@ -1,6 +1,6 @@
 # Olá! Meu nome é Davi Nathan.
 
-Estou graduando Ciências da Computação na Furb, eu me interessei pela área pois já vi muitos amigos meus criarem programas, jogos e saberem solucionar diversos problemas relacionados a um computador. Por conta disso, eu sempre sonhei em estudá-la e aprofundar mais meus conhecimentos sobre a área.
+Atualmente estou graduando Ciências da Computação na Furb. Eu me interessei pela área pois já vi muitos amigos meus criarem programas, jogos e saberem solucionar diversos problemas relacionados a um computador. Por conta disso, eu sempre sonhei em estudá-la e aprofundar mais meus conhecimentos sobre a área.
 
 Além disso, trabalho como menor aprendiz na Tijucon materiais de construção, onde sou Assistente Administrativo.
 
